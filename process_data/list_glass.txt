@@ -1,0 +1,34 @@
+
+09-05data
+
+D:\Share\glass_data_0905\output_glass\10188:{'normal': 15}
+D:\Share\glass_data_0905\output_glass\10187:{'normal': 7}
+D:\Share\glass_data_0905\output_glass\10179:{'normal': 13}
+D:\Share\glass_data_0905\output_glass\10178:{'normal': 0}
+D:\Share\glass_data_0905\output_glass\10183:{'normal': 6}
+D:\Share\glass_data_0905\output_glass\10180:{'normal': 7}
+D:\Share\glass_data_0905\output_glass\10280:{'normal': 0}
+D:\Share\glass_data_0905\output_glass\10175:{'normal': 0}
+sum up:,{'glass': 6260, 'normal': 48}sum up:,{}
+
+09-14data
+
+|  ID    | Video Name                          | normal     | glass      |
+|  2     | 10176                               | 12         | 1064       |
+|  3     | 10184                               | 0          | 423        |
+|  4     | 10281                               | 279        | 1064       |
+|  5     | 10288                               | 607        | 3          |
+|  xx    | sum                                 | 898        | 2554       |
+
+09-25
+|  ID    | Video Name                          | normal     | glass      |
+|  1     | 10181                               | 1          | 963        |
+|  2     | 10182                               | 10         | 1022       |
+|  3     | 10282                               | 882        | 2          |
+|  4     | 10284                               | 90         | 0          |
+|  5     | 10292                               | 1174       | 1          |
+|  7     | 10176                               | 12         | 1064       |
+|  8     | 10184                               | 0          | 423        |
+|  9     | 10281                               | 279        | 1064       |
+|  10    | 10288                               | 607        | 3          |
+|  xx    | sum                                 | 3055       | 4542       |

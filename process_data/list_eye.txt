@@ -1,0 +1,36 @@
+09-05data
+
+D:\Share\data\output_eye\10180:{'a_open': 0, 'glass_open': 793, 'glass_close': 403}
+D:\Share\data\output_eye\10178:{'a_open': 0, 'glass_open': 26, 'glass_close': 8}
+D:\Share\data\output_eye\10183:{'a_open': 0, 'glass_open': 443, 'glass_close': 1789}
+D:\Share\data\output_eye\10175:{'a_open': 0, 'glass_open': 1334, 'glass_close': 176}
+D:\Share\data\output_eye\10188:{'a_open': 0, 'glass_open': 494, 'glass_close': 241}
+D:\Share\data\output_eye\10280:{'a_open': 0, 'glass_open': 1565, 'glass_close': 12}
+D:\Share\data\output_eye\10179:{'a_open': 0, 'glass_open': 723, 'glass_close': 656}
+sum up:,{'a_open': 0, 'glass_open': 5895, 'glass_close': 3751, 'a_close': 45}
+
+09-14
+
+|  ID    | video_name                          | a_open     | a_close    | glass_open | glass_close |
+|  1     | D:\Share\data\output_eye\10184      | 0          | 0          | 134        | 208         |
+|  2     | D:\Share\data\output_eye\10176      | 4          | 0          | 898        | 738         |
+|  3     | D:\Share\data\output_eye\10281      | 206        | 0          | 1228       | 170         |
+|  4     | D:\Share\data\output_eye\10288      | 398        | 0          | 0          | 0           |
+|  xx    | sum up                              | 608        | 239        | 2260       | 1116        |
+
+09-25
+|  ID    | video_name                          | a_open     | a_close    | glass_open | glass_close |
+|  1     | D:\Share\data\output_eye\10292      | 2173       | 0          | 2          | 0           |
+|  2     | D:\Share\data\output_eye\10284      | 177        | 0          | 0          | 0           |
+|  3     | D:\Share\data\output_eye\10181      | 0          | 0          | 944        | 982         |
+|  4     | D:\Share\data\output_eye\10182      | 2          | 0          | 897        | 1147        |
+|  5     | D:\Share\data\output_eye\10282      | 1609       | 0          | 4          | 0           |
+|  xx    | sum up                              | 3961       | 353        | 1847       | 2129        |
+筛选后
+|  ID    | video_name                          | a_open     | a_close    | glass_open | glass_close |
+|  1     | D:\Share\data\output_eye\10292      | 1187       | 0          | 0          | 0           |
+|  2     | D:\Share\data\output_eye\10284      | 114        | 0          | 0          | 0           |
+|  3     | D:\Share\data\output_eye\10181      | 0          | 0          | 703        | 702         |
+|  4     | D:\Share\data\output_eye\10182      | 0          | 0          | 897        | 910         |
+|  5     | D:\Share\data\output_eye\10282      | 939        | 0          | 0          | 0           |
+|  xx    | sum up                              | 2240       | 168        | 1600       | 1612        |
